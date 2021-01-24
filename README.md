@@ -1,4 +1,4 @@
-# *ISIN FETCHNING FOR NSE STOCKS*
+## ISIN Fetching for nse stocks
 * **Python script to fetch all the listed stock from NSE using Nse Library**
 * **Rest API using SpringBoot Framework to fetch the provided stock_name's - Stock's Symbol , ISIN Number**
 
